@@ -1,0 +1,12 @@
+[submodule "vue_front"]
+	path = vue_front
+	url = https://github.com/woodchuckchoi/vue_front
+[submodule "Springboot_Back"]
+	path = Springboot_Back
+	url = https://github.com/suhyeoney/Springboot_Back
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/surim-lee/terraform.git
+[submodule "logicalTerraform"]
+	path = logicalTerraform
+	url = https://github.com/woodchuckchoi/logicalTerraform
